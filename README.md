@@ -29,7 +29,6 @@ The Library Management System is a Java-based application designed to efficientl
 
 ## Database Schema (Overview)
 
-> (Keep this short; include full script in a separate `.sql` file)
 
 * **books** — stores book information
 * **members** — stores member details
